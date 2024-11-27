@@ -1,0 +1,23 @@
+body{
+font-family: Arial, sans-serif;
+}
+.symbol {
+    font-size: 50px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    color: black; /* Default color */
+    transition: color 0.3s;
+}
+
+.content {
+    margin-top: 100px; /* To avoid overlap with the symbol */
+}
+#icon{
+    font-size:80px;
+    position: fixed;
+    top:170px;
+    left: 100px;
+    color: aquamarine;
+    transition:color 0.3s ;
+}
